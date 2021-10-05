@@ -1,0 +1,1 @@
+# eslint-plugin-tailwindcss-vite-sfc-issue
